@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
     //********************REFERENCE VARIABLES***************************
-    // aryan=jonty=suman
+    // aryan=suman
 
     float x=455;
     float & y=x;  // y yaha p reference variable h-
